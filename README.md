@@ -13,3 +13,5 @@ Happy Open Sourcing!
 - [Maximum of Array](algorithms/maximum_of_array)
 - [Breadth First Traversal](algorithms/breadth_first_traversal)
 - [Bubble_Sort](algorithms/Bubble_Sort)
+- [Heap Sort](algorithms/heap_sort)
+- [Quick Sort](algorithm/quick_sort)
