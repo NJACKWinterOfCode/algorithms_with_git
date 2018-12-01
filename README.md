@@ -11,3 +11,4 @@ Happy Open Sourcing!
 ## List of all Algorithms
 
 - [Maximum of Array](algorithms/maximum_of_array)
+- [Breadth First Traversal](algorithms/breadth_first_traversal)
