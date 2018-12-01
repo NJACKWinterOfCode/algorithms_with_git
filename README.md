@@ -15,3 +15,4 @@ Happy Open Sourcing!
 - [Bubble_Sort](algorithms/Bubble_Sort)
 - [Heap Sort](algorithms/heap_sort)
 - [Quick Sort](algorithm/quick_sort)
+- [binomialCoefficient](algorithms/binomialCoefficient)
