@@ -16,3 +16,4 @@ Happy Open Sourcing!
 - [Heap Sort](algorithms/heap_sort)
 - [Quick Sort](algorithm/quick_sort)
 - [binomialCoefficient](algorithms/binomialCoefficient)
+- [Insertion Sort](algorithms/insertion_sort)
