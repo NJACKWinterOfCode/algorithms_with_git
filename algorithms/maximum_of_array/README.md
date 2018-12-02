@@ -1,4 +1,4 @@
-# Maxmimum of Array
+# Maximum of Array
 
 This program takes an array of size **N** and prints its maximum.
 
