@@ -10,18 +10,18 @@ The input consists of two lines-
 
  N space separated integers sorted in non-decreasing order
 
- ##Sample Input
+ ## Sample Input
 
  ```
  5
  5 2 4 3 1
  ``` 
- ##Sample Output
+ ## Sample Output
 
  ```
  1 2 3 4 5
  ```
 
- ##Implemented in:
+ ## Implemented in:
 
  * [C](insertion_sort.c)
