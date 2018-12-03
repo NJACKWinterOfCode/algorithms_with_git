@@ -29,3 +29,4 @@ A single integer, the maximum of the array.
 
 - [C](maximum_of_array.c)
 - [C++](maximum_of_array.cpp)
+- [Python](maximum_of_array.py)
