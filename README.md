@@ -14,7 +14,7 @@ Happy Open Sourcing!
 - [Breadth First Traversal](algorithms/breadth_first_traversal)
 - [Bubble Sort](algorithms/Bubble_Sort)
 - [Heap Sort](algorithms/heap_sort)
-- [Quick Sort](algorithms/quick_sort)
+- [Quick Sort](algorithm/quick_sort)
 - [Binomial Coefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
 - [Dijkstra Shortest Path](algorithms/dijkstra)
