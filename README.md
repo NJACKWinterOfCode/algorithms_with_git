@@ -41,5 +41,5 @@ Happy Open Sourcing!
 
 ### String & Searching
 
-- [Binary_Search](algorithms/Strings & Searching/binary_search/)
-- [Caesar's Cipher](algorithms/String & Searching/Caesar's_cipher)
+- [Binary_Search](algorithms/Strings&Searching/binary_search/)
+- [Caesar's Cipher](algorithms/Strings&Searching/Caesar's_cipher)
