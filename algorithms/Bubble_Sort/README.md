@@ -24,4 +24,5 @@ Output of one line containing sorted array
 ```
 ### Implemented in:
 - [Python](Bubble_Sort.py)
+- [C++] (bubble_sort.cpp)
 
