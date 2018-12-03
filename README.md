@@ -17,6 +17,7 @@ Happy Open Sourcing!
 - [Quick Sort](algorithm/quick_sort)
 - [Binomial Coefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
+- [Merge Sort](algorithms/Merge_Sort)
 - [Dijkstra Shortest Path](algorithms/dijkstra)
 - [Caesar's Cipher](algorithms/Caesar's_cipher)
 - [Array Rotation By 1](algorithms/array_rotation_by_1)
