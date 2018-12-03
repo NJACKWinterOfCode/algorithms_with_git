@@ -17,6 +17,7 @@ Happy Open Sourcing!
 - [Quick Sort](algorithm/quick_sort)
 - [Binomial Coefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
+- [Graph Coloring using backtracking](algorithms/graph_coloring.c)
 - [Merge Sort](algorithms/Merge_Sort)
 - [Dijkstra Shortest Path](algorithms/dijkstra)
 - [Caesar's Cipher](algorithms/Caesar's_cipher)
