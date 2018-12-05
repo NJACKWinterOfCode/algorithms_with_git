@@ -32,4 +32,4 @@ Before contributing, check whether the algorithm has already been implemented or
 2. Update the corresponding README.
 3. Commit and push the changes, then submit a Pull Request.
 
-A sample algorithm [Maximum of Array](algorithms/maximum_of_array) has already been implemented for you.
+A sample algorithm [Maximum of Array](algorithms/Array/maximum_of_array) has already been implemented for you.
