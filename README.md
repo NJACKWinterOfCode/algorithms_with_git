@@ -17,6 +17,7 @@ Happy Open Sourcing!
 - [Quick Sort](algorithm/quick_sort)
 - [Binomial Coefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
+- [Detect_Loop_in_Linked_List](algorithms/detect_loop_in_linkedlist)
 - [Merge Sort](algorithms/Merge_sort)
 - [Floyd Warshall Algorithm](algorithms/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/graph_coloring.c)
@@ -25,3 +26,4 @@ Happy Open Sourcing!
 - [Caesar's Cipher](algorithms/Caesar's_cipher)
 - [Array Rotation By 1](algorithms/array_rotation_by_1)
 - [Magic Number](algorithms/magic_no/)
+
