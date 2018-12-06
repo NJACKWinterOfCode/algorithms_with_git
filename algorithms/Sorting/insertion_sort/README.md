@@ -25,3 +25,33 @@ The input consists of two lines-
  ## Implemented in:
 
  * [C](insertion_sort.c)
+
+
+
+
+
+ Python Implementation:
+
+ ## Input Format
+
+The input consists of one lines-
+ * Line contains space separated integers which are required to be sorted
+
+ ## Output Format
+
+ Space separated integers sorted in non-decreasing order
+
+ ## Sample Input
+
+ ```
+ 5 2 4 3 1
+ ``` 
+ ## Sample Output
+
+ ```
+ 1 2 3 4 5
+ ```
+
+ ## Implemented in:
+
+ * [Python](insertion_sort.py)
