@@ -28,3 +28,4 @@ This program takes an array of size **N** and sort it in increasing order in O(n
 ### Implemented in:
 
 - [C](heap_sort.c)
+- [Java](HeapSort.java)
