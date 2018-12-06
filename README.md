@@ -30,6 +30,7 @@ Happy Open Sourcing!
 - [Binomial Coefficient](algorithms/Maths/binomialCoefficient)
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
+- [T Prime Number](algorithms/Maths/t_prime_number)
 
 ### Sorting
 
