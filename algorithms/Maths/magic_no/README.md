@@ -43,3 +43,4 @@ It is not a MAGIC number
 
 - [C](magic.c)
 - [C++](magic.cpp)
+- [Python](magic.py)
