@@ -25,4 +25,5 @@ Enter no of times 5
 ```
 ### Implemented in:
 - [Python](fibonacci.py)
+- [C++](fibonacci.cpp)
 
