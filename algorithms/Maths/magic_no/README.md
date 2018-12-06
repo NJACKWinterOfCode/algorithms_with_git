@@ -31,7 +31,6 @@ A simple message saying its Magic Number or not.
 
 ```
 167328
-
 ```
 
 ### Sample Output
@@ -42,4 +41,5 @@ It is not a MAGIC number
 
 ### Implemented in:
 
+- [C](magic.c)
 - [C++](magic.cpp)
