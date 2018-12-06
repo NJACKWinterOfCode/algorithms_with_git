@@ -14,6 +14,7 @@ Happy Open Sourcing!
 
 - [Array Rotation By 1](algorithms/Array/array_rotation_by_1)
 - [Maximum of Array](algorithms/Array/maximum_of_array)
+- [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
 
 ### Linked List
 - [Detect_Loop_in_Linked_List](algorithms/Linked_List/detect_loop_in_linkedlist)
