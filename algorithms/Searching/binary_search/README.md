@@ -34,3 +34,4 @@ Search unsuccessful.
 ### Implemented in:
 
 - [Python](binary_search.py)
+- [C++](binary_search.cpp)
