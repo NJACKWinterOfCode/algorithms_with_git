@@ -42,4 +42,5 @@ It is not a MAGIC number
 
 ### Implemented in:
 
+- [C](magic.c)
 - [C++](magic.cpp)
