@@ -10,13 +10,14 @@ void rotate(int A[], int n)
 
 int main()
 {
-    int n;
+    int n,k;
     scanf("%d",&n);
-    int A[n],i;
+    scanf("%d",&k);
+    int A[n],i,j;
      for (i = 0; i < n; i++)
         scanf("%d",&A[i]);
-
-    rotate(A, n);
+    for(j=0;j<k;j++)
+        rotate(A, n);
 
     printf("\nThe rotated array is : \n");
     for (i = 0; i < n; i++)
