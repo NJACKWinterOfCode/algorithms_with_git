@@ -27,3 +27,33 @@ Merge sort is an efficient, general-purpose, comparison-based sorting algorithm.
 ### Implemented in:
 
 - [C](Merge_Sort.c)
+
+
+
+
+
+ Python Implementation:
+
+ ## Input Format
+
+The input consists of one lines-
+ * Line contains space separated integers which are required to be sorted
+
+ ## Output Format
+
+ Space separated integers sorted in non-decreasing order
+
+ ## Sample Input
+
+ ```
+ 5 2 4 3 1
+ ``` 
+ ## Sample Output
+
+ ```
+ 1 2 3 4 5
+ ```
+
+ ## Implemented in:
+
+ * [Python](merge_sort.py)
