@@ -57,3 +57,4 @@ Happy Open Sourcing!
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
+- [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
