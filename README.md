@@ -16,6 +16,9 @@ Happy Open Sourcing!
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
 
+### Binary Search Tree
+- [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
+
 ### Linked List
 - [Detect_Loop_in_Linked_List](algorithms/Linked_List/detect_loop_in_linkedlist)
 - [Delete consecutive duplicate elements in Linked List](algorithms/Linked_List/Delete_duplicate_from_linkedlist)
