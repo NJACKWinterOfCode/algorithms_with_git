@@ -34,6 +34,7 @@ Happy Open Sourcing!
 
 ### Maths
 
+- [Armstrong No](algorithms/Maths/armstrong_no)
 - [Binomial Coefficient](algorithms/Maths/binomialCoefficient)
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
@@ -59,4 +60,5 @@ Happy Open Sourcing!
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
+- [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
