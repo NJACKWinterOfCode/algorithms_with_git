@@ -18,6 +18,8 @@ Happy Open Sourcing!
 
 ### Binary Search Tree
 - [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
+- [Deleting a node from BST](algorithms/Binary_Search_Tree/bst_del)
+
 
 ### Linked List
 - [Detect_Loop_in_Linked_List](algorithms/Linked_List/detect_loop_in_linkedlist)
