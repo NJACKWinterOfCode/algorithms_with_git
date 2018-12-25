@@ -34,7 +34,7 @@ Happy Open Sourcing!
 ### Graph
 
 - [Breadth First Traversal](algorithms/Graph/breadth_first_traversal)
-- [Depth First Traversal](algorithms/Graph/DFS_Graph)
+- [Depth First Traversal](algorithms/Graph/Depth_first_Traversal)
 - [Dijkstra Shortest Path](algorithms/Graph/dijkstra)
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
