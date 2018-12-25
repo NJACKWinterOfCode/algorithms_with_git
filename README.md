@@ -23,6 +23,7 @@ Happy Open Sourcing!
 ### Binary Search Tree
 - [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
 - [Deleting a node from BST](algorithms/Binary_Search_Tree/bst_del)
+- [Counting_no_of_leaf_nodes_of_BST](algorithms/Binary_Search_Tree/Count_Leaf_Nodes)
 
 
 ### Linked List
