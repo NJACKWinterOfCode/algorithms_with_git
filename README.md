@@ -47,6 +47,7 @@ Happy Open Sourcing!
 - [Digits to Figure](algorithms/Maths/digit_to_figure)
 - [T Prime Number](algorithms/Maths/t_prime_number)
 - [Last_Men_Standing](algorithms/Maths/last_men_standing)
+- [Modulo Square Root](algorithms/Maths/Modulo-Square-Root)
 
 ### Sorting
 
