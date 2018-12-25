@@ -16,6 +16,7 @@ Happy Open Sourcing!
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
 - [Pangram](algorithms/Array/Pangram)
+- [Remove Duplicates from Sorted Array](algorithms/Array/Remove_Duplicates_from_Sorted_array)
 - [Reverse an array](algorithms/Array/reverse_elements_of_array)
 
 ### Binary Search Tree
@@ -69,3 +70,5 @@ Happy Open Sourcing!
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
 - [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
+- [Rabin-Karp Algorithm](algorithms/strings/Rabin_-_Karp_algorithm)
+- [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
