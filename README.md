@@ -15,6 +15,7 @@ Happy Open Sourcing!
 - [Array Rotation By 1](algorithms/Array/array_rotation_by_1)
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
+- [Reverse an array](algorithms/Array/reverse_elements_of_array)
 
 ### Binary Search Tree
 - [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
