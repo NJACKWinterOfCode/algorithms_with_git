@@ -44,6 +44,7 @@ Happy Open Sourcing!
 
 - [Armstrong No](algorithms/Maths/armstrong_no)
 - [Binomial Coefficient](algorithms/Maths/binomialCoefficient)
+- [Finding factors of a number](algorithms/Maths/find_all_factors_of_a_number)
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
 - [Towers_of_Hanoi](algorithms/Maths/Towers_of_Hanoi/)
