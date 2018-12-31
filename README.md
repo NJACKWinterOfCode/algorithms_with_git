@@ -53,6 +53,7 @@ Happy Open Sourcing!
 - [Fast Power](algorithms/Maths/fast_power)
 - [Last_Men_Standing](algorithms/Maths/last_men_standing)
 - [Modulo Square Root](algorithms/Maths/Modulo-Square-Root)
+- [Sum_of_fibonacci_numbers](algorithms/Maths/Sum_of_fibonacci_numbers)
 
 ### Sorting
 
