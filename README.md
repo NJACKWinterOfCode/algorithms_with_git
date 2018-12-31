@@ -71,6 +71,8 @@ Happy Open Sourcing!
 - [Binary_Search](algorithms/Searching/binary_search)
 - [Linear_Search](algorithms/Searching/linear_search)
 - [Jump_search](algorithms/Searching/Jump_search)
+- [Interpolation_search](algorithms/Searching/Interpolation_search)
+
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
