@@ -39,6 +39,8 @@ Happy Open Sourcing!
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
 - [L-ary Heap](algorithms/Graph/L-ary)
+- [Bellman Ford Shortest Path](algorithms/Graph/Bellman_Ford)
+- [Kruskal Minimum Spanning Tree](algorithms/Graph/Kruskal)
 
 ### Maths
 
@@ -84,3 +86,4 @@ Happy Open Sourcing!
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
 - [Rabin-Karp Algorithm](algorithms/strings/Rabin_-_Karp_algorithm)
 - [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
+- [Anagram](algorithms/Strings/Anagram)
