@@ -88,3 +88,6 @@ Happy Open Sourcing!
 - [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
 - [Anagram](algorithms/Strings/Anagram)
 - [Palindrome](algorithms/Strings/Palindrome)
+
+### Back Tracking
+- [N-Queen](algorithms/Back_Tracking/N_queen)
