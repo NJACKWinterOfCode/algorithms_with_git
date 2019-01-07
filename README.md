@@ -87,3 +87,4 @@ Happy Open Sourcing!
 - [Rabin-Karp Algorithm](algorithms/strings/Rabin_-_Karp_algorithm)
 - [Naive algorithm for Pattern Searching](algorithms/strings/Naive_algorithm_for_pattern_searching)
 - [Anagram](algorithms/Strings/Anagram)
+- [Palindrome](algorithms/Strings/Palindrome)
