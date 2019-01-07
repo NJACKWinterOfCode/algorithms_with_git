@@ -30,8 +30,7 @@ def mergeSort(arr):
 			j+=1
 			k+=1
  
-
-print("Enter array elements separated by space")
+n = int(input())
 arr = [int(x) for x in input().split()]
 mergeSort(arr) 
 print(*arr) 
